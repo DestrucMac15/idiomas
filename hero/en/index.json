@@ -1,0 +1,49 @@
+{
+    "carousel": [
+        {
+            "url": "nuevosnombramientos.webp",
+            "id": "Nayarit",
+            "content": {
+                "title": "",
+                "subtitle": ""
+            },
+            "actions": {
+                "button": {
+                    "text" : "¡Vamos allá!",
+                    "dir": "/pueblos"
+                }
+            }
+        },
+        {
+            "url": "mexicoatraves.webp",
+            "id": "San Luis Potosí",
+            "content": {
+                "title": "",
+                "subtitle": ""
+            },
+            "actions": {
+                "button": {
+                    "text" : "¡Vamos allá!",
+                    "dir": "/videos"
+                }
+            }
+        }, 
+        {
+            "url": "NuevoLeon_Portada.webp",
+            "id": "Nuevo León",
+            "content": {
+                "title": "Nuevo León:",
+                "subtitle": "Explora la Esencia del Norte de México."
+            },
+            "actions": {
+                "button": {
+                    "text" : "¡Vamos allá!",
+                    "dir": "/estado/NuevoLeon"
+                }
+            }
+        }
+    ],
+    "brand": {
+        "text": "México dentro del Top Rank de los 10 países más visitados en el mundo."
+    }
+}
